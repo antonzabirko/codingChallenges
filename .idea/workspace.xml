@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc9dd724-e2aa-49c9-8e10-9c99189dc9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oneAway/oneAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compressString/compressString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/oneAway/oneAway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/oneAway/oneAway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneAway/oneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneAway/oneAway.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,46 +19,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isUnique/isUnique.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding>
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/URLify/URLify.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isPalindromePermutation/isPalindromePermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-              <folding>
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oneAway/oneAway.java">
+        <entry file="file://$PROJECT_DIR$/src/compressString/compressString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="92">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/URLify/URLify.java" />
         <option value="$PROJECT_DIR$/src/isPalindromePermutation/isPalindromePermutation.java" />
         <option value="$PROJECT_DIR$/src/oneAway/oneAway.java" />
+        <option value="$PROJECT_DIR$/src/compressString/compressString.java" />
       </list>
     </option>
   </component>
@@ -116,7 +88,7 @@
               <item name="codingChallenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oneAway" type="462c0819:PsiDirectoryNode" />
+              <item name="compressString" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.oneAway">
+  <component name="RunManager" selected="Application.compressString">
     <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="URLify.URLify" />
       <module name="codingChallenges" />
@@ -168,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindromePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPalindromePermutation.isPalindromePermutation" />
+    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compressString.compressString" />
       <module name="codingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="isPalindromePermutation.*" />
+          <option name="PATTERN" value="compressString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPermutation.isPermutation" />
+    <configuration name="isPalindromePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPalindromePermutation.isPalindromePermutation" />
       <module name="codingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="isPermutation.*" />
+          <option name="PATTERN" value="isPalindromePermutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.compressString" />
         <item itemvalue="Application.oneAway" />
         <item itemvalue="Application.isPalindromePermutation" />
         <item itemvalue="Application.URLify" />
         <item itemvalue="Application.isUnique" />
-        <item itemvalue="Application.isPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +226,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29836065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,8 +284,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oneAway/oneAway.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="19" column="105" lean-forward="true" selection-start-line="19" selection-start-column="105" selection-end-line="19" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compressString/compressString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

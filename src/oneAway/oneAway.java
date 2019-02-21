@@ -51,11 +51,7 @@ public class oneAway {
                 iB++;
             }
         }
-        if (failFlag) {
-            return false;
-        } else {
-            return true;
-        }
+        return !failFlag;
     }
 
     public static void main(String[] args) {
