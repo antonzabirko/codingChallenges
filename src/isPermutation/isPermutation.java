@@ -1,4 +1,4 @@
-package isUnique;
+package isPermutation;
 
 import java.util.HashMap;
 

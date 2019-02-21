@@ -143,11 +143,11 @@
   </component>
   <component name="RunManager" selected="Application.isPermutation">
     <configuration name="isPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isUnique.isPermutation" />
+      <option name="MAIN_CLASS_NAME" value="isPermutation.isPermutation" />
       <module name="codingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="isUnique.*" />
+          <option name="PATTERN" value="isPermutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
