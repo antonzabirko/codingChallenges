@@ -1,26 +1,25 @@
 package compressString;
 
 public class compressString {
+    // O(n)
     public static String compressString(String s) {
-        char temp = s.charAt(0);
-        int run = 1;
+        char temp = s.charAt(0),
+             prevTemp = ' ';
+        int run = 0;
         StringBuilder output = new StringBuilder("");
 
         // Find a run
-        for (char x : s.toCharArray()) {
-            System.out.println(run + " " + temp + " " + x);
-            if (temp == x) {
-                run++;
-            } else {
-                System.out.println(output.append(x).append(run));
-                run = 1;
+        for (int i = 0; i < s.length(); i++) {
+            run++;
+            if (i + 1 >= s.length() || s.charAt(i) != s.charAt(i + 1)) {
+                output.append(s.charAt(i)).append(run);
+                run = 0;
             }
-            temp = x;
         }
-        return output.toString();
+        return (s.length() >= output.length()) ? output.toString() : s;
     }
 
     public static void main(String[] args) {
-        System.out.println(compressString("aaabbbbccc"));
+        System.out.println(compressString("aaaaaaaaaaaaabbbbsdssssscccccfdddddiwdfcv"));
     }
 }

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc9dd724-e2aa-49c9-8e10-9c99189dc9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/compressString/compressString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/URLify/URLify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/URLify/URLify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/isPalindromePermutation/isPalindromePermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/isPalindromePermutation/isPalindromePermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/isPermutation/isPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/isPermutation/isPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/isUnique/isUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/isUnique/isUnique.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codingChallenges/oneAway/oneAway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codingChallenges/oneAway/oneAway.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneAway/oneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneAway/oneAway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compressString/compressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compressString/compressString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/compressString/compressString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -72,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,8 +95,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,17 +206,18 @@
       <option name="presentableId" value="Default" />
       <updated>1550713417764</updated>
       <workItem from="1550713421252" duration="4093000" />
+      <workItem from="1550791460486" duration="3418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4093000" />
+    <option name="totallyTimeSpent" value="7511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="702" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2563966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,7 +226,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29836065" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2979415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,7 +236,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.21147542" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2112676" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,32 +271,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isPalindromePermutation/isPalindromePermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding>
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oneAway/oneAway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="105" lean-forward="true" selection-start-line="19" selection-start-column="105" selection-end-line="19" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isPalindromePermutation/isPalindromePermutation.java" />
+    <entry file="file://$PROJECT_DIR$/src/oneAway/oneAway.java" />
     <entry file="file://$PROJECT_DIR$/src/compressString/compressString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
